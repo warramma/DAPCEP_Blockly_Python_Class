@@ -16,5 +16,3 @@ for number in range(1, 16):
         print("Buzz")
 
     # If none of the above conditions are true, print the number.
-    else:
-        print(number)
