@@ -9,5 +9,4 @@ if user_number > 10:
 # Replace the "True" after elif in the next condition to ACTUALLY check if the number is between 1 and 10.
 elif True:
     print("That's a number between 1 and 10.")
-else:
-    print("That's a very small number.")
+#add an else condition to print that the number is small :) 
