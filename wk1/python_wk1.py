@@ -8,4 +8,4 @@ my_name = ""
 my_age = None
 
 # This program will print a sentence using your variables.
-print(f"My name is {my_name} and I am {my_age} years old.")
+print("My name is ", my_name, " and I am ", my_age, " years old.")
